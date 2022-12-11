@@ -1,0 +1,20 @@
+The video game industry is booming and more and more investors are thinking about taking advantage of this opportunity and launching a video game that will grab the attention of gamers who are already looking for a way to socialize and have fun. Advances in technology, population growth, and the pandemic situation last year have led to forecasts for the global video game market to reach nearly $140 billion in 2021.
+
+But in order to create a video game in this competitive but highly lucrative market, we need to understand what it means to create full cycle game development.
+
+What programming languages are there for creating video games?
+ 
+
+Here are some of the more notable languages and techniques that game developers use to create video games.
+
+C++
+The game engine world is dominated by C++, which is the typical programming language for video game development. It is not easy to learn, but game developers have been using it for many years to develop PC and console games. C++ is more than ideal when game developers want to create complex graphics in game engines like Unreal, Unity and Sony's PhyreEngine.
+
+FROM#
+C# is a highly expressive object-oriented programming language used for a wide variety of multi-platform software. This language, developed by Microsoft, adds value to games developed for Windows and Xbox in particular. Many popular and polished game engines such as Unity, CryEngine, Godot and Stride use C# as their programming language.
+
+Goal C
+Objective-C is the main programming language for creating everything that can be played on a MAC, iPhone or iPad. It is a superset of the C programming language that provides object-oriented features and a dynamic runtime environment. Objective-C is used in the Cocoa and Cocoa Touch frameworks, and the Xcode application development software relies almost entirely on it.
+The full 111 game development cycle represents the entire process of creating a video game, from the game design stage to the post-release stage. More specifically, full-cycle game development is a structure that defines the milestones and responsibilities involved in each step, from the initial feasibility study to maintaining the completed application through the game development process.
+
+The game development process is not just art, a work of creativity or creative thinking; the game is more like a craft made from alternating interdisciplinary aspects, art, music, programming, acting, and the control and integration of these aspects. Thus, game development requires certain guidelines that dictate the development process, the game development life cycle.
